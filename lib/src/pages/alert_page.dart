@@ -5,7 +5,7 @@ class AlertPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Esta es la pagina de alerta "),
+        title: Text("Esta es la pagina de alertaaaa "),
       ),
       body: Center(
         child: ElevatedButton(
