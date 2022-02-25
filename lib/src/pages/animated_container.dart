@@ -6,7 +6,7 @@ class AnimatedconPage extends StatefulWidget {
   @override
   _AnimatedconPageState createState() => _AnimatedconPageState();
 }
-
+//commit animacion
 class _AnimatedconPageState extends State<AnimatedconPage> {
   double _width = 50.0;
   double _height = 50.0;
