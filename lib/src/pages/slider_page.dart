@@ -6,7 +6,7 @@ class SliderPage extends StatefulWidget {
   @override
   _SliderPageState createState() => _SliderPageState();
 }
-
+//creacion de slider
 class _SliderPageState extends State<SliderPage> {
   double _valSlider = 100.0;
   bool _bloqCheck = false;
