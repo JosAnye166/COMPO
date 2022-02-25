@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+
+//creacion inputs
 class InputPage extends StatefulWidget {
   @override
   _InputPageState createState() => _InputPageState();

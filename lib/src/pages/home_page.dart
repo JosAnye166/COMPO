@@ -2,6 +2,7 @@ import 'package:componentes/src/utis/icono_string.dart';
 import 'package:flutter/material.dart';
 import 'package:componentes/src/providers/menu_providers.dart';
 
+
 class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
