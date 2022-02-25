@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+
+//craacion de card
 class CardPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
